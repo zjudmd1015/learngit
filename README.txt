@@ -1,3 +1,3 @@
 Creating a new branch is quick.
 quick and simple
-rel
+a new one
